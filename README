@@ -1,0 +1,30 @@
+/*
+ *  Name: Vanessa Hurtado
+ */
+
+
+Files: List.java, ListTest.java, Sparce.java, Matrix.java, MatrixTest.java, Makefile, and README
+
+
+== ListClient.java ==
+This file is used as a test client for the List ADT.
+
+== List.java ==
+A List ADT that utilizes a doubly linked list structure.
+
+
+== Sparce.java ==
+A program thst reads in an input file, building matrices and performs calculations on these matrices. The ouput is stored in an putput file.
+
+== Matrix.java == 
+Contains the Matrix ADT and its functions.
+
+
+== MatrixTest.java == 
+Contains a program that uses the Matrix ADT to make sure everything is in order by calling all of its functions.
+
+== Makefile == 
+Creates an executable jar file and used for compiling the programs.
+
+== README ==
+This file lists all files submitted with their descriptions of their roles in this project.
